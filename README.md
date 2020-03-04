@@ -1,0 +1,3 @@
+# cloneme
+training of GIT
+=====================
